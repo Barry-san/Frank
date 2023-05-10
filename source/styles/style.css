@@ -115,7 +115,7 @@ a:has(.card) {
 }
 
 .one::before {
-    background-image: url('../../assests/FsuT3ahWYAEpOXn.jpeg');
+    background-image: url(../../assests/FsuT3ahWYAEpOXn.jpeg);
 }
 
 .two::before {
