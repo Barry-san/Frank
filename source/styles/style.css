@@ -129,7 +129,7 @@ a:has(.card) {
 }
 
 .four::before {
-    background-image: url('/FergvfTWIAAwYeK.jpeg');
+    background-image: url('../../FergvfTWIAAwYeK.jpeg');
     background-position: top;
 }
 
