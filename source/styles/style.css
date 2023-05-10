@@ -115,21 +115,21 @@ a:has(.card) {
 }
 
 .one::before {
-    background-image: url(/FsuT3ahWYAEpOXn.jpeg);
+    background-image: url('FsuT3ahWYAEpOXn.jpeg');
 }
 
 .two::before {
-    background-image: url('/frank-at-cochella.jpeg');
+    background-image: url('frank-at-cochella.jpeg');
     background-position: inherit;
 }
 
 .three::before {
-    background-image: url('/BLONDE.jpeg');
+    background-image: url('BLONDE.jpeg');
     background-position: top;
 }
 
 .four::before {
-    background-image: url('../../FergvfTWIAAwYeK.jpeg');
+    background-image: url('FergvfTWIAAwYeK.jpeg');
     background-position: top;
 }
 
